@@ -1,0 +1,87 @@
+# UniqueShots — Professional Photography Portfolio
+
+A clean, responsive, and engaging portfolio website built for **UniqueShots**, a passionate female photographer dedicated to capturing unforgettable moments and preserving memories with creative storytelling through the lens.
+
+## 🚀 Live Demo
+
+👉 [View Website Live](https://your-deployment-link.com)
+
+---
+
+## 📸 Project Description
+
+UniqueShots is more than just a portfolio — it’s a digital experience showcasing diverse photography projects including weddings, birthdays, city landscapes, and wildlife. The site is fully responsive, optimized for performance, and designed to offer a beautiful user experience across all screen sizes.
+
+---
+
+## 🔧 Technologies Used
+
+- **HTML5** — Semantic structure and accessibility
+- **CSS3** — Custom styling, layout, and animations
+- **Responsive Design** — Media queries for mobile/tablet/desktop
+- **Boxicons** — Icon library for visual enhancements
+- **Google Fonts** — Typography via Montserrat
+- **Git & GitHub** — Version control and code collaboration
+
+---
+
+## 🎯 Features
+
+- Hero section with call-to-action
+- Gallery of sample projects categorized by event type
+- Detailed About section with storytelling text + imagery
+- Fully functional Contact form (optional integration with Formspree or other backend services)
+- Sticky header and responsive navigation menu
+- Smooth animation and subtle hover effects
+- Organized and scalable CSS structure
+- Built using mobile-first approach and tested across modern devices
+
+---
+
+## 🛠️ Installation & Usage
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/ThatNetWizard/Unique-shots-portfolio.git
+
+
+🧠 Developer Notes
+This site is 100% custom coded — no frameworks.
+
+Mobile-first design was used, with breakpoints at 768px, 480px, and 320px.
+
+Applied will-change selectively on animated sections (e.g. .contact-column) for performance optimization and reduce repaint/reflow
+
+Animations were handled with CSS only (no JavaScript dependencies yet).
+
+Designed with aesthetic clarity, performance, and UX in mind
+
+
+
+💡 Future Improvements
+Add backend support for the contact form (e.g., Formspree or Node.js)
+
+Integrate a gallery modal viewer for project images
+
+Add animations using JavaScript or GSAP
+
+Accessibility improvements (ARIA labels)
+
+Dark mode toggle
+
+
+📬 Contact
+Have questions or feedback?
+
+📧 unique.uniqueshots@gmail.com
+
+
+👩‍💻 Author
+Peter Lot (aka ThatNetWizard) — Frontend Developer & Visual Design Enthusiast
+📝 Year: 2025
+⚠️ License: All rights reserved
+Developed with 💖 by ThatNetWizard
+
+
+
+Thanks for viewing UniqueShots. Feedback, stars, and forks are welcome!
