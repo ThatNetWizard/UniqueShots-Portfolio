@@ -540,7 +540,7 @@ form.contact-column {
   border: none;
   border-radius: 5px;
   background: var(--bg-black);
-  color: var(--color-light);
+  color: var();
 }
 form.contact-column input::placeholder,
 form.contact-column textarea::placeholder {
@@ -549,7 +549,6 @@ form.contact-column textarea::placeholder {
 form.contact-column input:focus,
 form.contact-column textarea:focus {
   border-color: var(--accent-color);
-  color: var(--color-light);
   box-shadow: 0 0 0 5px rgba(231, 76, 60, 0.2);
   opacity: 0.8;
 }

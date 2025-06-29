@@ -549,7 +549,7 @@ form.contact-column textarea::placeholder {
 form.contact-column input:focus,
 form.contact-column textarea:focus {
   border-color: var(--accent-color);
-  color: var(--color-light);
+  color: ;
   box-shadow: 0 0 0 5px rgba(231, 76, 60, 0.2);
   opacity: 0.8;
 }
